@@ -9,5 +9,5 @@
 
 2. 编译文件：javac HelloWorld.java<br/>
    执行文件：java HelloWorld<br/>
-   ![](https://github.com/hujiapeng/writejvmbygo/tree/master/src/jvmgo/ch01/imgs/helloworld.png)
+   ![](https://raw.githubusercontent.com/hujiapeng/writejvmbygo/master/src/jvmgo/ch01/imgs/helloworld.png)
     
